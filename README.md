@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohith Kumar
-- 👀 I’m interested in Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
